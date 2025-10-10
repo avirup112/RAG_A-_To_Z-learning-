@@ -18,9 +18,9 @@ This project implements a basic RAG system that:
 
 ## Requirements
 
-- Python 3.11+
-- Jupyter Notebook
-- Ollama with Llama2 model
+- Python 3.11+,
+- Jupyter Notebook,
+- Ollama with Llama2 model,
 - Required Python packages:
   - `requests`
   - `json`
